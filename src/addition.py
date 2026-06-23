@@ -1,5 +1,5 @@
 # app.py h
-# this is my first gitaction
+# this is my first git action
 # This is a test commit
 def add(a, b):
     return a + b
